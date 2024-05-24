@@ -7,6 +7,13 @@ bkhandbuch.pdf
 *.aux
 *.log
 *.out
+*.toc
 
 # Ignore .swp, created by vim
 .*.swp
+
+# Ignore files from _real_ editors :P
+auto/
+*~
+#*#
+*.synctex.gz
